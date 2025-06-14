@@ -1,8 +1,10 @@
-# 👋 Welcome to Thanushan's GitHub Profile! 🚀
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=00D2D3&width=1024&height=120&lines=Hello+Friends+%F0%9F%A5%B0;Welcome+To+Thanushan+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" alt="welcome wave"/>
-</p>
+ <h1 align="center">Hi, I'm Thanushan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'> <strong> < <i style='color:#f5f6fa';>Web Developer</i> > </strong></h1>
+
+![Md-Ij Banner-2](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 Hi, I'm **Thanushan**, a passionate **Software Engineering Undergraduate** specializing in **Full-Stack Development**, **Mobile Application Development**, and **Systems Programming**. I thrive on creating innovative, user-friendly solutions, from sleek front-end interfaces to robust back-end systems and efficient mobile apps. My mission is to build software that makes a difference! 🌍
 
@@ -99,8 +101,8 @@ A full-stack application for managing blood donation inventories, built with **M
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thanushan-dev&show_icons=true&theme=dark" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanushan-dev&layout=compact&theme=dark" alt="Top Languages"/>
+  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanushan1022&show_icons=true&locale=en" alt="thanushan1022" /></p>
 </p>
 
 ---
