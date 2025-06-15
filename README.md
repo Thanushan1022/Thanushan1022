@@ -1,22 +1,25 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=42&pause=2000&color=00D2D3&width=1024&height=120&lines=Hello+Friends+%F0%9F%A5%B0;Welcome+To+Thanushan+Github+Profile+%F0%9F%90%B1%E2%80%8D%F0%9F%91%A4;Everyone+Thank's+For+Visit+My+Profile!)](https://git.io/typing-svg)
 
- <h1 align="center">Hi, I'm Thanushan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'> <strong> < <i style='color:#f5f6fa';>Web Developer</i> > </strong></h1>
+ <h1 align="center">Hi, I'm Thanushan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'> <strong> <i style='color:#f5f6fa';>FullStack Developer</i> </strong></h1>
 
-![Md-Ij Banner-2](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+![Thanu Banner-2](https://camo.githubusercontent.com/2be3120110be001c5fd9c4cce41ed31ad367ad11d607d3873f4a72227f445315/68747470733a2f2f69302e77702e636f6d2f77616e646572696e2e6465762f77702d636f6e74656e742f75706c6f6164732f323031392f31322f63726f702d302d302d313137302d3339302d302d61626f75742d636f7665722e706e673f773d313137302673736c3d31)
 
-<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-Hi, I'm **Thanushan**, a passionate **Software Engineering Undergraduate** specializing in **Full-Stack Development**, **Mobile Application Development**, and **Systems Programming**. I thrive on creating innovative, user-friendly solutions, from sleek front-end interfaces to robust back-end systems and efficient mobile apps. My mission is to build software that makes a difference! 🌍
+<p align="center"><img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"></p>
+
+<p align="center">
+  Hi, I'm <strong><span style="color:#FF6B6B;">Thanushan</span></strong>, a <strong><span style="color:#4ECDC4;">passionate</span></strong> <strong>Software Engineering Undergraduate</strong> specializing in <strong>Full-Stack Development</strong>, <strong>Mobile Application Development</strong>, and <strong>Systems Programming</strong>. I thrive on creating innovative, user-friendly solutions — from sleek front-end interfaces to robust back-end systems and efficient mobile apps. My mission is to build software that makes a difference! 🌍
+</p>
+
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=thanushan-dev&style=flat-square&color=blue" alt="profile views"/>
   <img src="https://img.shields.io/github/followers/thanushan-dev?label=Follow&style=social" alt="followers"/>
-  <img src="https://img.shields.io/badge/SuperGrok-xAI-blue?style=flat-square" alt="SuperGrok"/>
+  
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/d9IfL7seBexHLct0kS/giphy.gif" width="200" alt="coding animation"/>
-</p>
+
 
 ---
 
@@ -25,50 +28,57 @@ Hi, I'm **Thanushan**, a passionate **Software Engineering Undergraduate** speci
 - **Name**: Thanushan  
 - **Education**: Undergraduate in **Information Technology**, specializing in **Software Engineering**  
 - **Pronouns**: He/Him  
-- **Location**: [Your Location, e.g., Sri Lanka or City]  
-- **Passion**: Crafting modern, scalable applications and exploring new tech stacks  
+- **Location**: [No 26 Wiadhyapura road ranajayadama, Dehiwala, Sri Lanka]  
+- **Passion**: Crafting modern, scalable applications and exploring new tech stacks
+- **Currently Learning**: React Native,Python 
 - **Fun Fact**: I’m a coffee enthusiast ☕ and love debugging code with music in the background!
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech & Stack
+🌐 Front-End Development
+<div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> </div>
 
-### 🌐 Front-End Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+⚙️ Back-End Development
+<div align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/> </div>
 
-### ⚙️ Back-End Development
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+💻 Systems Programming
+<div align="center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </div>
 
-### 💻 Systems Programming
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+🗄️ Databases
+<div align="center"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> </div>
 
-### 🗄️ Databases
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+📱 Mobile Development
+<div align="center"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/> </div
 
-### 📱 Mobile Development
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+                                                                                                                              
+🛠️ Tools & Platforms
+<div align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white"/>  </div>
 
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+ 🌟 Frameworks
+<div align="center"> <img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white"/> </div>
 
-### 🌟 Frameworks
-![MERN Stack](https://img.shields.io/badge/MERN_Stack-000000?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <!-- Trophy Section -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=thanushan1022&theme=onedark" alt="thanushan1022 trophies" />
+  </a>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=thanushan1022&show_icons=true&locale=en&theme=dark&bg_color=000000&hide_border=true" alt="thanushan1022 stats" />
+
+</div>
+
+
+---
 ## 🚀 Featured Projects
 
 ### 💰 CoinCove - Personal Finance Tracker
@@ -96,16 +106,7 @@ A full-stack application for managing blood donation inventories, built with **M
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="coding animation"/>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thanushan1022&show_icons=true&locale=en" alt="thanushan1022" /></p>
-</p>
-
----
 
 ## 🌟 What I'm Working On
 
@@ -115,9 +116,7 @@ A full-stack application for managing blood donation inventories, built with **M
 - Contributing to open-source projects in **React**, **Kotlin**, and **C++**.
 - Exploring **GraphQL** for efficient data querying in full-stack apps.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHdxQ7fi/giphy.gif" width="150" alt="learning animation"/>
-</p>
+
 
 ---
 
@@ -138,9 +137,7 @@ A full-stack application for managing blood donation inventories, built with **M
 - **Team Player**: Experienced in collaborative projects and open-source contributions.
 - **Lifelong Learner**: Constantly exploring new technologies to stay at the forefront of innovation.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYaw5Z2iZ2/giphy.gif" width="150" alt="welcome animation"/>
-</p>
+
 
 > *"Code is art, and every line tells a story of logic and creativity."*  
 > Let’s create something extraordinary together! 💻
