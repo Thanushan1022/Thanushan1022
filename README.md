@@ -1,5 +1,10 @@
 
- <h1 align="center">Hi, I'm Thanushan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height='30px'> <strong> <i style='color:#f5f6fa';>FullStack Developer</i> </strong></h1>
+ <h2 align="center">Hi there, I'm <span style="color:#FF6B6B;"><strong>Thanushan</strong></span> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+
+<p align="center">
+  <i><strong>A passionate Full Stack Developer from Sri Lanka</strong> 🌍</i>
+</p>
+</h2>
 
 ![Thanu Banner-2](https://camo.githubusercontent.com/2be3120110be001c5fd9c4cce41ed31ad367ad11d607d3873f4a72227f445315/68747470733a2f2f69302e77702e636f6d2f77616e646572696e2e6465762f77702d636f6e74656e742f75706c6f6164732f323031392f31322f63726f702d302d302d313137302d3339302d302d61626f75742d636f7665722e706e673f773d313137302673736c3d31)
 
@@ -7,8 +12,9 @@
 <p align="center"><img align="center" alt="coding" width="400" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"></p>
 
 <p align="center">
-  Hi, I'm <strong><span style="color:#FF6B6B;">Thanushan</span></strong>, a <strong><span style="color:#4ECDC4;">passionate</span></strong> <strong>Software Engineering Undergraduate</strong> specializing in <strong>Full-Stack Development</strong>, <strong>Mobile Application Development</strong>, and <strong>Systems Programming</strong>. I thrive on creating innovative, user-friendly solutions — from sleek front-end interfaces to robust back-end systems and efficient mobile apps. My mission is to build software that makes a difference! 🌍
+  Hello, I'm <strong><span style="color:#FF6B6B;">Thanushan</span></strong>, an <strong>Information Technology undergraduate student</strong> specializing in <strong>Software Engineering</strong> at <strong>SLIIT University</strong>. I'm passionate about <strong>Full-Stack Development</strong>, <strong>Mobile Application Development</strong>, and <strong>Systems Programming</strong>. I enjoy building user-friendly and impactful software — from dynamic front-end designs to efficient back-end systems and mobile applications. My goal is to create innovative solutions that improve everyday life. 🚀
 </p>
+
 
 
 
@@ -21,7 +27,7 @@
 
 
 
----
+
 
 ## 🎓 About Me
 
@@ -36,29 +42,76 @@
 ---
 
 ## 🛠️ Tech & Stack
-🌐 Front-End Development
-<div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> </div>
 
-⚙️ Back-End Development
-<div align="center"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/> </div>
+#### 🚀 Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
 
-💻 Systems Programming
-<div align="center"> <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> </div>
+#### 🌐 Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</div>
 
-🗄️ Databases
-<div align="center"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> </div>
+#### 🗄️ Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
 
-📱 Mobile Development
-<div align="center"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/> </div
+#### 💻 IDEs
+<div align="center">
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=black"/>
+  <img src="https://img.shields.io/badge/IDLE-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</div>
 
-                                                                                                                              
-🛠️ Tools & Platforms
-<div align="center"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
- <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white"/>  </div>
+#### 🖥️ Operating Systems
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+</div>
 
- 🌟 Frameworks
-<div align="center"> <img src="https://img.shields.io/badge/MERN_Stack-000000?style=for-the-badge&logo=mongodb&logoColor=white"/> </div>
+#### 🧰 Other Tools & Technologies
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Font%20Awesome-339AF0?style=for-the-badge&logo=font-awesome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sketch-F7B500?style=for-the-badge&logo=sketch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Invision-FF3366?style=for-the-badge&logo=invision&logoColor=white"/>
+</div>
+
 
 
 ---
@@ -77,8 +130,29 @@
 
 </div>
 
+## 📬 Get in Touch
 
----
+<p align="left">
+  <a href="https://linkedin.com/in/thanushan-dev" target="_blank">
+    <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:thanushan1022@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/thanu_shan22" target="_blank">
+    <img alt="Instagram" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://facebook.com/thanushan.dev" target="_blank">
+    <img alt="Facebook" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
+  </a>
+</p>
+
+
+
+
 ## 🚀 Featured Projects
 
 ### 💰 CoinCove - Personal Finance Tracker
@@ -118,17 +192,6 @@ A full-stack application for managing blood donation inventories, built with **M
 
 
 
----
-
-## 📬 Get in Touch
-
-<p align="center">
-  <a href="https://linkedin.com/in/thanushan-dev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:thanushan@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://twitter.com/thanushan_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-</p>
-
----
 
 ## 💡 Why Work With Me?
 
