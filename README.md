@@ -133,6 +133,7 @@
 ## 📬 Get in Touch
 
 <p align="left">
+   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thanushan-logenthiran-76b060371/" target="_blank">
   <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
