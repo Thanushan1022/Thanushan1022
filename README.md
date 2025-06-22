@@ -133,9 +133,10 @@
 ## 📬 Get in Touch
 
 <p align="left">
-  <a href="https://linkedin.com/in/thanushan-dev" target="_blank">
-    <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-  </a>
+  <a href="https://www.linkedin.com/in/thanushan-logenthiran-76b060371/" target="_blank">
+  <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+</a>
+
   &nbsp;&nbsp;
   <a href="mailto:thanushan1022@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
@@ -153,52 +154,6 @@
 
 
 
-## 🚀 Featured Projects
-
-### 💰 CoinCove - Personal Finance Tracker
-A mobile app built with **Kotlin** and **Android Studio** for tracking income, expenses, and budgets with a modern black-and-white UI. Features include transaction management, category-wise spending analysis, and data persistence using **Room** and **SharedPreferences**.
-- **Tech**: Kotlin, XML, Room, SharedPreferences
-- **Repo**: [CoinCove](https://github.com/thanushan-dev/CoinCove)
-- **Demo**: [Add a link or GIF showcasing the app, if available]
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="150" alt="mobile app animation"/>
-</p>
-
-### 🌐 Portfolio Website
-A responsive portfolio website showcasing my projects and skills, built with **React**, **HTML**, **CSS**, and **JavaScript** in the **MERN Stack**. Hosted on GitHub Pages with a sleek, animated design.
-- **Tech**: React, Node.js, Express, MongoDB, HTML, CSS
-- **Repo**: [Portfolio](https://github.com/thanushan-dev/Portfolio)
-- **Live**: [thanushan-dev.github.io](https://thanushan-dev.github.io)
-
-### 🩺 Blood Inventory Management System
-A full-stack application for managing blood donation inventories, built with **MERN Stack** (**MongoDB**, **Express**, **React**, **Node.js**) and styled with a black-and-white theme for a clean, professional look.
-- **Tech**: React, Node.js, Express, MongoDB
-- **Repo**: [BloodInventory](https://github.com/thanushan-dev/BloodInventory)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="coding animation"/>
-</p>
-
-
-
-## 🌟 What I'm Working On
-
-- Adding cloud backup and push notifications to **CoinCove** for enhanced user experience.
-- Building a **MERN Stack** e-commerce platform with real-time inventory updates.
-- Learning **Spring Boot** for scalable back-end APIs.
-- Contributing to open-source projects in **React**, **Kotlin**, and **C++**.
-- Exploring **GraphQL** for efficient data querying in full-stack apps.
-
-
-
-
-## 💡 Why Work With Me?
-
-- **Problem Solver**: I approach challenges with creativity and structure, ensuring robust solutions.
-- **Versatile Developer**: Proficient in **MERN Stack**, **mobile development**, and **systems programming**.
-- **Team Player**: Experienced in collaborative projects and open-source contributions.
-- **Lifelong Learner**: Constantly exploring new technologies to stay at the forefront of innovation.
 
 
 
