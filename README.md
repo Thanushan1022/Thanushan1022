@@ -118,19 +118,29 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="background-color:#000000; padding:20px;">
 
   <!-- Trophy Section -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=thanushan1022&theme=onedark" alt="thanushan1022 trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=thanushan1022&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="thanushan1022 trophies" />
   </a>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thanushan1022&show_icons=true&locale=en&theme=dark&bg_color=000000&hide_border=true" alt="thanushan1022 stats" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=thanushan1022&show_icons=true&locale=en&theme=dark&bg_color=000000&hide_border=true" 
+    alt="thanushan1022 GitHub stats"
+    style="margin-top: 20px;"
+  />
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanushan1022&show_icons=true&locale=en&layout=compact" alt="thanushan1022" /></p>
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=thanushan1022&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&hide_border=true" 
+    alt="thanushan1022 top languages"
+    style="margin-top: 20px;"
+  />
 
 </div>
+
 
 ## 📬 Get in Touch
 
