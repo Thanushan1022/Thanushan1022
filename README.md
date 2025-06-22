@@ -118,28 +118,40 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="background-color:#000000; padding:20px;">
+<div align="center" style="background-color:#000000; padding:30px; border-radius:15px;">
 
-  <!-- Trophy Section -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=thanushan1022&theme=onedark&no-frame=true&margin-w=10&margin-h=10" alt="thanushan1022 trophies" />
-  </a>
+  <!-- Title -->
+  <h2 style="color:white; font-family:sans-serif;">📊 GitHub Profile Overview</h2>
 
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=thanushan1022&show_icons=true&locale=en&theme=dark&bg_color=000000&hide_border=true" 
-    alt="thanushan1022 GitHub stats"
-    style="margin-top: 20px;"
-  />
+  <!-- Row 1: Stats + Top Languages -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+    <!-- GitHub Stats -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=thanushan1022&show_icons=true&theme=radical&hide_border=true&bg_color=000000" 
+      alt="GitHub Stats"
+      width="400"
+    />
 
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=thanushan1022&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&hide_border=true" 
-    alt="thanushan1022 top languages"
-    style="margin-top: 20px;"
-  />
+    <!-- Top Languages -->
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanushan1022&layout=compact&theme=radical&hide_border=true&bg_color=000000" 
+      alt="Top Languages"
+      width="300"
+    />
+  </div>
+
+  <!-- Row 2: Trophies -->
+  <div style="margin-top: 30px;">
+    <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+      <img 
+        src="https://github-profile-trophy.vercel.app/?username=thanushan1022&theme=algolia&no-frame=true&row=1&column=6" 
+        alt="GitHub Trophies"
+      />
+    </a>
+  </div>
 
 </div>
+
 
 
 ## 📬 Get in Touch
