@@ -128,6 +128,8 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=thanushan1022&show_icons=true&locale=en&theme=dark&bg_color=000000&hide_border=true" alt="thanushan1022 stats" />
 
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thanushan1022&show_icons=true&locale=en&layout=compact" alt="thanushan1022" /></p>
+
 </div>
 
 ## 📬 Get in Touch
