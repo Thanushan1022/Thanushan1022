@@ -123,24 +123,25 @@
   <!-- Title -->
   <h2 style="color:white; font-family:sans-serif;">📊 GitHub Profile Overview</h2>
 
-  <!-- Row 1: Stats + Top Languages -->
+  <!-- Stats and Top Languages -->
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
-    <!-- GitHub Stats -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=thanushan1022&show_icons=true&theme=radical&hide_border=true&bg_color=000000" 
-      alt="GitHub Stats"
-      width="400"
-    />
-
-    <!-- Top Languages -->
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanushan1022&layout=compact&theme=radical&hide_border=true&bg_color=000000" 
-      alt="Top Languages"
-      width="300"
-    />
+    <div>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=thanushan1022&show_icons=true&theme=radical&hide_border=true&bg_color=000000" 
+        alt="GitHub Stats"
+        width="400"
+      />
+    </div>
+    <div>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanushan1022&layout=compact&theme=radical&hide_border=true&bg_color=000000" 
+        alt="Top Languages"
+        width="300"
+      />
+    </div>
   </div>
 
-  <!-- Row 2: Trophies -->
+  <!-- Trophies -->
   <div style="margin-top: 30px;">
     <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
       <img 
@@ -151,6 +152,7 @@
   </div>
 
 </div>
+
 
 
 
