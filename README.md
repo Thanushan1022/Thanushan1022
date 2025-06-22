@@ -133,11 +133,9 @@
 ## 📬 Get in Touch
 
 <p align="left">
-   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/thanushan-logenthiran-76b060371/" target="_blank">
-  <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
-</a>
-
+    <img alt="LinkedIn" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+  </a>
   &nbsp;&nbsp;
   <a href="mailto:thanushan1022@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>
@@ -151,6 +149,7 @@
     <img alt="Facebook" src="https://img.icons8.com/color/48/000000/facebook-new.png"/>
   </a>
 </p>
+
 
 
 
