@@ -33,7 +33,8 @@
 
 - **Name**: Thanushan  
 - **Education**: Undergraduate in **Information Technology**, specializing in **Software Engineering**  
-- **Pronouns**: He/Him  
+- **Pronouns**: He/Him
+- **Personal Portfolio**: https://thanushan1022.github.io/React_Portfolio/
 - **Location**: [No 26 Wiadhyapura road ranajayadama, Dehiwala, Sri Lanka]  
 - **Passion**: Crafting modern, scalable applications and exploring new tech stacks
 - **Currently Learning**: React Native,Python 
